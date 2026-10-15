@@ -78,3 +78,7 @@ sync_github_name = true
 [people.moecr7]
 real_name = "Moein Saharkhiz"
 display_name = "onlymoein"
+
+[people.Jaap42]
+real_name = "Jaap Nauta"
+display_name = "BureauNauta.nl"
